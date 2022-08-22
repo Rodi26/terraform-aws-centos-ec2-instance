@@ -1,5 +1,5 @@
 # Application Definition 
-app_name        = "kopicloud" # Do NOT enter any spaces
+app_name        = "wikicloud" # Do NOT enter any spaces
 app_environment = "dev"       # Dev, Test, Staging, Prod, etc
 
 # Network
