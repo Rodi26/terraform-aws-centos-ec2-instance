@@ -8,7 +8,7 @@ sudo yum install -y python3
 sudo yum install python3-pip -y
 sudo yum install git -y
 cd /tmp
-sudo git clone https://github.com/Rodi26/aws-wiki"
+sudo git clone "https://github.com/Rodi26/aws-wiki"
 cd /tmp/aws-wiki
 sudo pip3 install mkdocs-material
 sudo pip3 install -r ./requirements.txt
